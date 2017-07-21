@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="novel.spider"/>
+	<classpathentry kind="src" path="yujia.spider"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.3.jar" sourcepath="D:/m2Repositories/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="libs/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.1.jar" sourcepath="D:/m2Repositories/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.2.3.jar" sourcepath="D:/m2Repositories/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3-sources.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.2.1.jar" sourcepath="D:/m2Repositories/com/fasterxml/jackson/core/jackson-databind/2.2.1/jackson-databind-2.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="libs/xom-1.0d10.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="libs/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="libs/poi-examples-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-excelant-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-schemas-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-scratchpad-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="libs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
